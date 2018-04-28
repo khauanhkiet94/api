@@ -1,0 +1,43 @@
+{
+  "ads": [
+    {
+      "status": 1,
+      "package-name": "com.samsungmusic.edgeplayer.s9music.s9plus",
+      "name": "start",
+      "value": "896886563806512_897433840418451",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 15
+    },
+    {
+      "status": 1,
+      "package-name": "com.samsungmusic.edgeplayer.s9music.s9plus",
+      "name": "default",
+      "value": "ca-app-pub-5686065012807485/3633409637",
+      "show-default": false,
+      "type": "2",
+      "enable": true,
+      "time-show": 20,
+      "time-after-start": 0,
+      "count-show": 0,
+      "max-show-day": 10
+    },
+    {
+      "status": 1,
+      "package-name": "com.samsungmusic.edgeplayer.s9music.s9plus",
+      "name": "out",
+      "value": "896886563806512_904010423094126",
+      "show-default": true,
+      "type": "1",
+      "enable": true,
+      "time-show": 30,
+      "time-after-start": 30000,
+      "count-show": 0,
+      "max-show-day": 0
+    }
+  ]
+}
