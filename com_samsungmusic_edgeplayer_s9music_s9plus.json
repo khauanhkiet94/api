@@ -43,12 +43,12 @@
       "status": 1,
       "package-name": "com.samsungmusic.edgeplayer.s9music.s9plus",
       "name": "out",
-      "value": "896886563806512_918217871673381",
+      "value": "ca-app-pub-3940256099942544/1033173712",
       "show-default": true,
-      "type": "1",
+      "type": "2",
       "enable": true,
-      "time-show": 30,
-      "time-after-start": 30000,
+      "time-show": 10,
+      "time-after-start": 0,
       "count-show": 0,
       "max-show-day": 0
     }
