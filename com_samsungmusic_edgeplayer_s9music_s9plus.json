@@ -50,7 +50,7 @@
       "time-show": 10,
       "time-after-start": 0,
       "count-show": 0,
-      "max-show-day": 0
+      "max-show-day": 20
     }
   ]
 }
